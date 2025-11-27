@@ -12,36 +12,6 @@ BOOK DETAILS:
 - Full table of contents with smooth navigation
 
 
-HOW TO SHARE ON LINKEDIN:
---------------------------
-
-METHOD 1: Host Online (Recommended for best experience)
-1. Upload the HTML file to a web hosting service:
-   - GitHub Pages (free): github.com
-   - Netlify (free): netlify.com
-   - Your own website
-   
-2. Copy the public URL
-
-3. Create a LinkedIn post with text like:
-   "I'm excited to share my new book 'The Eternal Flame' - a 43-chapter 
-   journey exploring awareness, time, and the eternal flame within us all. 
-   Read it online: [YOUR-URL]"
-
-4. The Open Graph tags will automatically create a rich preview
-
-
-METHOD 2: Share as Document Attachment
-1. Create a LinkedIn post
-
-2. Click "Add media" and select "Document"
-
-3. Upload the HTML file directly
-   (Note: LinkedIn will convert it to a viewable format)
-
-4. Add your description text
-
-
 METHOD 3: Share the File Directly
 1. Email the HTML file to interested readers
 
@@ -50,25 +20,7 @@ METHOD 3: Share the File Directly
 3. No internet connection required after download
 
 
-SUGGESTED LINKEDIN POST TEXT:
-------------------------------
-
-🔥 THE ETERNAL FLAME 🔥
-
-I'm thrilled to share my new book - a profound journey through 43 chapters 
-exploring life's most important questions:
-
-• What remains when everything is taken away?
-• How do we live with presence in an unconscious world?
-• What is the flame that cannot be extinguished?
-
-This book was born from real experiences - returning home to an empty room, 
-landing a plane without memory, watching time pass and transform everyone 
-around us.
-
-It's about awakening to the truth that most people never see.
-
-📖 Read the complete book: [YOUR LINK OR "See attachment"]
+📖 Read the complete book:https://fekans-boop.github.io/Eternal-Flame/
 
 Topics covered:
 ✨ The Awakening
